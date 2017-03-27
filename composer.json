@@ -1,9 +1,14 @@
 {
 	"description": "The CodeIgniter framework v4",
-	"name": "codeigniter/framework",
+	"name": "redweb-tn/framework",
 	"type": "project",
-	"homepage": "https://codeigniter.com",
+	"homepage": "https://www.satoripop.com",
 	"license": "MIT",
+	"authors": [
+	{
+		"name": "Sabri El Gueder",
+		"email": "sabri.elgueder@satoripop.com"
+	}],
 	"support": {
 		"forum": "http://forum.codeigniter.com/",
 		"wiki": "https://github.com/bcit-ci/CodeIgniter4/wiki",
